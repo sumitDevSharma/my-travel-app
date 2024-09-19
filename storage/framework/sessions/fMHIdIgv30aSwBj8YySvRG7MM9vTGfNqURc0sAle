@@ -1,0 +1,15 @@
+a:4:{s:6:"_token";s:40:"vcfZcZRyTkSktv8X3gKHQieQTq5ttM08RF28PC6F";s:7:"message";a:3:{s:6:"status";s:5:"error";s:7:"message";s:749:"SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'vendor1@mytravel.test' for key 'users_email_unique' (SQL: insert into `users` (`first_name`, `last_name`, `email`, `password`, `phone`, `status`, `city`, `country`, `created_at`, `email_verified_at`, `bio`) values (Vendor, 01, vendor1@mytravel.test, $2y$10$X6faFqnHSHlGALDJlAT9JOFhxIpfQC8gSkSFjtnKJUBfEW2lsVHdy, 112 666 888, publish, New York, US, 2024-08-09 09:32:26, 2024-08-09 09:32:26, We're designers who have fallen in love with creating spaces for others to reflect, reset, and create. We split our time between two deserts (the Mojave, and the Sonoran). We love the way the heat sinks into our bones, the vibrant sunsets, and the wildlife we get to call our neighbors.))";s:11:"dbOutputLog";s:802:"
+   INFO  Nothing to migrate.  
+
+
+   INFO  Seeding database.  
+
+  Themes\Mytravel\Database\Seeders\DatabaseSeeder ............................................................ RUNNING  
+  Database\Seeders\RolesAndPermissionsSeeder ................................................................. RUNNING  
+  Database\Seeders\RolesAndPermissionsSeeder .......................................................... 110.99 ms DONE  
+
+  Database\Seeders\Language .................................................................................. RUNNING  
+  Database\Seeders\Language ............................................................................ 16.15 ms DONE  
+
+  Database\Seeders\UsersTableSeeder .......................................................................... RUNNING  
+";}s:6:"_flash";a:2:{s:3:"new";a:0:{}s:3:"old";a:1:{i:0;s:7:"message";}}s:9:"_previous";a:1:{s:3:"url";s:162:"http://127.0.0.1:8000/install/database?admin_email=sumit9451sharma%40gmail.com&admin_password=%242y%2410%24Lc%2FffQH3HT8BeZiv5CrQw.IYkHAwYqOTZY5FvdkNJ7e9ZSIjM1MoC";}}
